@@ -31,7 +31,7 @@ Gene set enrichment analysis using fgsea.
 04_venn_gene_overlap_analysis.py
 Identification of shared genes/pathways across transcriptomic and metabolomic enrichment results, with Venn diagram visualization.
 
-05_multi_omics_integration_and_key_genes.R
+05_transcriptomics-metqabolomics-integraqtion.R
 Integration of transcriptomic and metabolomic findings to prioritize key genes and pathways.
 
 06_qpcr_ddct_analysis.R

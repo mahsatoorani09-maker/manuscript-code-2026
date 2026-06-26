@@ -1,4 +1,5 @@
-setwd("G:/metabolomics")
+counts_file <- "data/count_matrix.csv"
+meta_file   <- "data/sample_metadata.csv"
 
 # Load required libraries
 library(edgeR)
